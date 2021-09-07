@@ -8,7 +8,7 @@ IoT project to monitor Temperature &amp; Humidity in PHP server
 
 
 Copy IoTth folder directly to htdocs in xampp then change username,password,servername... in "main_processing.php".<br/>
-Upload the code located in ESP8266 side to ESP8266
+Upload the code located in folder "ESP8266 side" to ESP8266
 
 Circuit is very simple: to upload code to your ESP8266 either you use ftdi or you can connect it via arduino,<br/>
 <br/>
